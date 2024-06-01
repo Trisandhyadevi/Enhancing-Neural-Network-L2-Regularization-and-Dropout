@@ -6,11 +6,11 @@ Regularization techniques are essential for improving the generalization capabil
 ## L2 Regularization
 L2 regularization, is a statistical technique used in machine learning to avoid overfitting. It involves adding a penalty term to the model’s loss function.
 
-##Dropout 
+## Dropout 
 Dropout regularization randomly drops a fraction of the neurons during training, which helps in preventing co-adaptation of neurons. This technique forces the network to learn redundant representations, making it more resilient to overfitting.
 
-##Results
+## Results
 The results of applying L2 and dropout regularization show improved generalization and reduced overfitting. Detailed results and performance metrics can be found in the results directory.
 
-##Acknowledgments
+## Acknowledgments
 This work is part of a Coursera assignment. 
